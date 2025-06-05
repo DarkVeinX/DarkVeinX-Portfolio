@@ -310,7 +310,7 @@ function handleScroll() {
     });
 }
 function tele() {
-    window.location.replace('https://t.me/mr_sehaj');
+    window.location.replace('https://discord.gg/aU9kvTBD');
 }
 // Event listener for scroll
 window.addEventListener('scroll', handleScroll);
